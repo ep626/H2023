@@ -1,0 +1,4 @@
+# Intro
+Introducing Impul$ive: The Future of Personal Finance Management
+
+Are you tired of struggling to manage your personal finances and keep track of your monthly bills? Say hello to Impul$ive, a revolutionary web application that simplifies and automates your budgeting process. Designed with you in mind, our platform offers a user-friendly experience to help you take control of your financial life, effortlessly allocate funds for your essential expenses, and never miss a payment again. Join the Impul$ive community today, and discover a smarter, stress-free way to manage your personal finances.
