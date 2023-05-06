@@ -14,4 +14,4 @@ Automatic budgeting: Analyze users' income and expenses to create a personalized
 Monthly recurring bills tracking: Identify users' monthly recurring bills and put a hold on the necessary amounts to ensure timely payments.
 Customizable budget categories: Allow users to create custom budget categories to accommodate their unique financial needs.
 Financial insights and recommendations: Provide users with insights into their spending habits and offer personalized suggestions for improving their financial health.
-Alerts and notifications: Send users reminders about upcoming bills, low account balances, or unusual spending patterns.
+Alerts and notifications: Send users reminders about upcoming bills, low account balances, or unusual spending patterns. 

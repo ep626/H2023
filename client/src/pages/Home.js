@@ -9,7 +9,7 @@ function Home(){
   
 return(
   <React.Fragment>
-  <link rel="icon" href="money-bag-favicon.png"/>
+  <link rel="icon" href="piggy_bank"/>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
   <nav class="navbar navbar-expand-lg fixed-top">
     <div class="container-fluid">
@@ -52,13 +52,12 @@ return(
       `}</style>          </li>
         </ul>
       </div>
-      <p class="navbar-text"><a target="_blank" href="https://icons8.com/icon/13013/money-bag">Money Bag</a> favicon
-        by <a target="_blank" href="https://icons8.com">Icons8</a></p>
+      
     </div>
   </nav>
 
   <div class="p-4 shadow-4 rounded-3 text-center" style={{margin: '100px'}}>
-    <img src="piggy_bank.png" style={{width: '300px', height: 'auto'}}/>
+    <img src="piggy_bank.svg" style={{width: '300px', height: 'auto'}}/>
     <p>Control your spending habits with our automatic budgeting tool.</p>
     <button type="button" class="btn btn-success" id="modal-button" data-toggle="modal" data-target="#startModal">Get Started</button>
   </div>
